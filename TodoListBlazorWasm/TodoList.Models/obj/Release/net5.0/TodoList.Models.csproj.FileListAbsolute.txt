@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\bin\Release\net5.0\TodoList.Models.deps.json
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\bin\Release\net5.0\TodoList.Models.dll
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\bin\Release\net5.0\ref\TodoList.Models.dll
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\bin\Release\net5.0\TodoList.Models.pdb
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.dll
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\ref\TodoList.Models.dll
+C:\Users\Asus\source\repos\TodoListBlazorWasm\TodoList.Models\obj\Release\net5.0\TodoList.Models.pdb
